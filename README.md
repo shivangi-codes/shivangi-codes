@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi, I'm [Shivangi Sharma] 👋
+
+## Hi, I'm Shivangi Sharma 👋
 😄 Pronouns: she/her
 I'm a Data Science Enthusiast with a Computer Science and Engineering background. I love working on AI/ML projects and exploring new technologies.
 
@@ -23,7 +23,7 @@ I'm a Data Science Enthusiast with a Computer Science and Engineering background
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<!!--
+<!--
 ## 📈 GitHub Stats
 
 ![Your Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
